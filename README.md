@@ -17,9 +17,3 @@ The Responsive Furniture Website is a modern, user-friendly web application desi
 - **HTML:** The structure and content of the website.
 - **CSS:** Custom styles and responsive design techniques.
 - **JavaScript:** Interactive elements and dynamic functionality.
-
-### Installation
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
