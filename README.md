@@ -1,7 +1,7 @@
 # CS_50-Final-Project
 # Responsive Furniture Website
 
-#### Video Demo: [Watch Here](<URL HERE>)
+#### Video Demo: https://youtu.be/2wGyKCiiypA
 
 #### Description:
 The Responsive Furniture Website is a modern, user-friendly web application designed to showcase and sell furniture products online. Built with HTML, CSS, and JavaScript, this project emphasizes a seamless and responsive design to ensure an optimal browsing experience across various devices.
